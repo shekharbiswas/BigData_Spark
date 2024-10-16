@@ -14,5 +14,6 @@ According to IBM, Jobs in Big Data are expected to grow 40% in the coming years
 ## Module 1
 - Dense vs Sparse
 - At rest or transit
+- Bigdata strategies
 
 [link](https://www.unofficialgoogledatascience.com/2016/10/practical-advice-for-analysis-of-large.html)
