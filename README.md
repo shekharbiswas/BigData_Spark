@@ -12,3 +12,7 @@ According to IBM, Jobs in Big Data are expected to grow 40% in the coming years
 - Data Lake Architecture
 
 ## Module 1
+- Dense vs Sparse
+- At rest or transit
+
+  
