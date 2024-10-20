@@ -16,5 +16,6 @@ According to IBM, Jobs in Big Data are expected to grow 40% in the coming years
 - At rest or transit
 - Bigdata strategies
 - Analytical and Operational tech stack
+- Velocity
 
 [link](https://www.unofficialgoogledatascience.com/2016/10/practical-advice-for-analysis-of-large.html)
